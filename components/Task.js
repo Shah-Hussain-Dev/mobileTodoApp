@@ -32,12 +32,8 @@ export default Task
 const styles = StyleSheet.create({
     taskContainer: {
         flex: 1,
-        // justifyContent:'space-between',
-        // overflow: 'hidden',
-        // alignItems:'center',
     },
     taskTitle: {
-        // height:40,
         width: '100%',
     },
     taskText: {

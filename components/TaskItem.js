@@ -35,11 +35,8 @@ export default TaskItem
 
 const styles = StyleSheet.create({
     taskContainer:{
-        // flexDirection:'row',
         width: '90%',
         marginHorizontal: 23,
-     
-       
     },
     taskListContainer:{
         marginVertical:6,
@@ -52,7 +49,6 @@ const styles = StyleSheet.create({
         borderRadius:60,
         borderColor:"#dedede",
         borderWidth:1,
-      
     },
     shadowProp: {
         elevation: 20,
